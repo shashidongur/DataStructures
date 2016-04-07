@@ -8,16 +8,16 @@ make generator
 
 ## Run Dijkastra and FloydWarshall on generated or custom Graphs
 
-** To run the algorithms with generated graph file, input the command: **
+__To run the algorithms with generated graph file, input the command:__
 
 make project
 
-** To run the algorithm with custom graph file, input the command: **
+__To run the algorithm with custom graph file, input the command:__
 
 make customeProject
 ./customGraphSolver <custom file name>
 
-** The program will generate three text files: **
+__The program will generate three text files:__
 
 "dijkstraResult.txt" 		- Result of running dijkastra algorithm on graph
 
