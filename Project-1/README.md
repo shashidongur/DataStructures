@@ -20,5 +20,7 @@ make customeProject
 ** The program will generate three text files: **
 
 "dijkstraResult.txt" 		- Result of running dijkastra algorithm on graph
+
 "floydWarshallResult.txt" 		- Result of running floyd warshall algorithm on graph
+
 "timeResults.txt"			- Result of time comparision for both 
